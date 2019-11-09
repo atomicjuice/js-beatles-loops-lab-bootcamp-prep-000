@@ -1,14 +1,14 @@
 // add solution here
 
-function theBeatlesPlay(musicians, instruments){
- var one = ["John Lennon plays guitar"]
-  learn
+// function theBeatlesPlay(musicians, instruments){
+// var one = ["John Lennon plays guitar"]
   
-}
+// }
 function theBeatlesPlay(musicians, instruments)
 { var arr = [];
 for (let i = 0 ; i < musicians.length; i++){
-  var statement = musicians[i] + " plays " + instruments[i]; arr.push(statement); }
+  var statement = musicians[i] + " plays " + instruments[i]; 
+  arr.push(statement); }
   return arr; 
   
 } 
